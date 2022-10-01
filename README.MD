@@ -31,6 +31,12 @@ https://www.amazon.co.jp/gp/product/B071R6T9V3/ref=ppx_yo_dt_b_asin_title_o04_s0
 
 #### OTHER ####
 
+USB Hub
+https://www.amazon.co.jp/-/en/U2H-TZS720SBK-Adapter-Included-Compatible-Individual/dp/B003YDYWM2/ref=sr_1_6?crid=2GV9G9APHAMB9&keywords=usb+ハブ+電源付き+エレコム&qid=1664660076&qu=eyJxc2MiOiIzLjU0IiwicXNhIjoiMy40NiIsInFzcCI6IjMuMzcifQ%3D%3D&sprefix=usb+hub+with+power+elecom%2Caps%2C170&sr=8-6
+
+USB Hub Power Cable
+https://www.amazon.co.jp/gp/product/B07GGWHN67/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
 Geekworm Armor Metal Case for Raspberry Pi 4 B 
 https://www.amazon.co.jp/-/en/gp/product/B07W57Q85L/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
